@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">ionic-angular-course</string>
-    <string name="title_activity_main">ionic-angular-course</string>
-    <string name="package_name">io.ionic.starter</string>
-    <string name="custom_url_scheme">io.ionic.starter</string>
+    <string name="app_name">first-ionic-app-test</string>
+    <string name="title_activity_main">first-ionic-app-test</string>
+    <string name="package_name">com.ionic.angulartest.app</string>
+    <string name="custom_url_scheme">com.ionic.angulartest.app</string>
 </resources>
